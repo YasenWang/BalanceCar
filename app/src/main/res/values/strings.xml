@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Balance Car</string>
+    <string name="menu">Menu</string>
+    <string name="forward">Forward</string>
+    <string name="right">Right</string>
+    <string name="left">Left</string>
+    <string name="back">Back</string>
+    <string name="control_keyboard">Control Keyboard</string>
+</resources>
